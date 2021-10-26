@@ -1,5 +1,6 @@
 
-{% capture overlay_img_path %}{{ /assets/images/unsplash-image-1.jpg }}{% endcapture %}
+{% assign splash_img = '/assets/images/unsplash-image-1.jpg' %}
+{% capture overlay_img_path %}{{ splash_img }}{% endcapture %}
 
 {% if page.header.overlay_filter contains "gradient" %}
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
