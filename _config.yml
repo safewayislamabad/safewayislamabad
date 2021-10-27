@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-fb-square"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://web.facebook.com/Safeway-Pharmacy-250651900188838"
 
 defaults:
