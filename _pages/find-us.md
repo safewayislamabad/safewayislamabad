@@ -11,15 +11,15 @@ date: 2021-10-27T18:38:52+00:00
 <hr>
 
 ## Proprietor
-Jamil ur Rehman 
-<a href="tel:+923335173717" target="_blank">0333 517 3717</a>
-<a href="mailto:jamilqureshi55@gmail.com" target="_blank">jamilqureshi55@gmail.com</a>
+Jamil ur Rehman<br> 
+<a href="tel:+923335173717" target="_blank">0333 517 3717</a><br>
+<a href="mailto:jamilqureshi55@gmail.com" target="_blank">jamilqureshi55@gmail.com</a><br><br>
 
 ### Accounts Manager:
-Umer Farooq 
-<a href="tel:+923215191287" target="_blank">0321 519 1287</a>
+Umer Farooq <br>
+<a href="tel:+923215191287" target="_blank">0321 519 1287</a><br><br>
 
 ### Manager Pharmacy: 
-Shehbaz Mughal
-<a href="tel:+923463141020" target="_blank">0346 314 1020</a>
-<a href="mailto:jamilqureshi55@gmail.com" target="_blank">shahbazmughal020@gmail.com</a>
+Shehbaz Mughal<br>
+<a href="tel:+923463141020" target="_blank">0346 314 1020</a><br>
+<a href="mailto:jamilqureshi55@gmail.com" target="_blank">shahbazmughal020@gmail.com</a><br><br>
