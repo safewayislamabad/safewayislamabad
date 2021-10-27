@@ -13,7 +13,7 @@ title: "Find Us"
 <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
 <div class="page__inner-wrap">
 
-<h2>Proprietor</h3>
+<h2>Proprietor</h2>
 Jamil ur Rehman<br> 
 <a href="tel:+923335173717" target="_blank">0333 517 3717</a><br>
 <a href="mailto:jamilqureshi55@gmail.com" target="_blank">jamilqureshi55@gmail.com</a><br><br>
