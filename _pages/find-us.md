@@ -1,7 +1,6 @@
 ---
 title: "Find Us"
 permalink: /fins-us/
-date: 2021-10-27T18:38:52+00:00
 ---
 
 <center>
