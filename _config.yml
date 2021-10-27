@@ -23,7 +23,7 @@ tagline: Integrated pharmacy services with Convenience and Quality
 github_username: safewayislamabad
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
