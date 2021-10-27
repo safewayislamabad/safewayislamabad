@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Find Us"
+title: "Find Us X"
 permalink: /fins-us/
 ---
 
