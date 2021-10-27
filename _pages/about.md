@@ -1,8 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Our mission is to provide integrated pharmacy services with Convenience and Quality. We are reinventing the concept of retail pharmacy by taking authentic medicines to patients’ door-step as quickly as possible.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## How do we ensure Authenticity?
+We only procure our medicines directly from manufacturers or their distributors. There is constant flow of relevant information and quality control mechanisms to ensure authenticity of our medicines.
+
+## Why are we convenient?
+
+All your pharmaceutical needs are met at your doorstep by our trained riders, in safe and hygienic conditions. We maintain recommended temperature level and packaging material to prevent any damage while in storage or transit.
