@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: page
 title: "Find Us"
-permalink: /fins-us/
 ---
 
 <center>
