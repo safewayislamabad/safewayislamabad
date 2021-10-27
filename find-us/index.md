@@ -9,6 +9,10 @@ title: "Find Us"
 
 <hr>
 
+<div id="main" role="main">
+<article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+<div class="page__inner-wrap">
+
 # Proprietor
 Jamil ur Rehman<br> 
 <a href="tel:+923335173717" target="_blank">0333 517 3717</a><br>
@@ -23,6 +27,8 @@ Shehbaz Mughal<br>
 <a href="tel:+923463141020" target="_blank">0346 314 1020</a><br>
 <a href="mailto:jamilqureshi55@gmail.com" target="_blank">shahbazmughal020@gmail.com</a><br><br>
 
-    
+</div>
+</article>
+</div>
 
 
